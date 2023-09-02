@@ -2,17 +2,17 @@
 Hanya untuk mengganti dari yang paling atas ke yang paling bawah.
 
 
-logs.txt :
-* a
-* b
-* c
-* d
-* e
+#logs.txt :
+# a
+# b
+# c
+# d
+# e
 
-output: hasil.txt
+#output: hasil.txt
 
-e
-d
-c
-b
-a
+# e
+# d
+# c
+# b
+# a
